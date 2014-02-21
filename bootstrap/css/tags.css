@@ -1,13 +1,14 @@
 .alert {
   float:left;
-  width: 120px;
   margin:5px;
 }
 
+.skills-wrapper {
+  padding: 10px;
+}
 .panel-heading {
   padding: 5px 15px;
 }
-
 .panel-title {
   padding-top: 7px;
 }

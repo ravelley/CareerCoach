@@ -1,0 +1,44 @@
+/*** PAGE CSS ***/
+.resume-page {
+    padding: 0px 10px;
+}
+
+/*** UPLOAD SECTION ***/
+.panel {
+    width: 50%;
+}
+.input-group {
+    width: 100%;
+}
+.btn-file {
+    position: relative;
+    overflow: hidden;
+}
+.btn-file input[type=file] {
+    position: absolute;
+    top: 0;
+    right: 0;
+    min-width: 100%;
+    min-height: 100%;
+    font-size: 999px;
+    text-align: right;
+    filter: alpha(opacity=0);
+    opacity: 0;
+    outline: none;
+    background: white;
+    cursor: inherit;
+    display: block;
+}
+.input-group .form-control {
+    margin-right: 10px;
+    width: calc(100% - 100px);
+}
+
+/** RESUME IMAGE **/
+.resume {
+    background:transparent url('../../css/images/document.png') no-repeat center center;
+    background-size: 70%;
+    border: dashed 3px #C2C2C2;
+    height: 440px;
+    width: 340px;
+}

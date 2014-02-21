@@ -1,0 +1,58 @@
+/*** PEOPLE ***/
+.profile {
+  float: left;
+  padding-top: 10px;
+  width: 45%;
+}
+
+.info {
+  left: 50%;
+  padding: 10px 5px;
+}
+
+/*** CAROUSEL ***/
+.carousel {
+  height: 300px;
+}
+
+.carousel .center {
+  text-align: center;
+}
+
+.carousel .item {
+  height: 300px;
+}
+
+.carousel-control {
+  color: #428bca;
+  width:5%;
+}
+
+.carousel-control.left {
+  background-image: none;
+}
+.carousel-control.right {
+  background-image: none;
+}
+
+.carousel-control:hover,
+.carousel-control:focus {
+  color: #428bca;
+}
+
+.carousel-indicators {
+  bottom: 0px;
+}
+
+.carousel-indicators li {
+  background-color: #fff;
+  border: 1px solid #428bca;
+}
+
+.carousel-indicators .active {
+  background-color: #428bca;
+}
+
+.carousel-panel {
+  height: 250px;
+}

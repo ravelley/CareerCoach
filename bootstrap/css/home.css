@@ -13,9 +13,6 @@
 /*** CAROUSEL ***/
 .carousel {
   height: 300px;
-}
-
-.carousel .center {
   text-align: center;
 }
 
@@ -25,7 +22,7 @@
 
 .carousel-control {
   color: #428bca;
-  width:5%;
+  width:40px;
 }
 
 .carousel-control.left {

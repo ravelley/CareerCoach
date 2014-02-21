@@ -5,6 +5,9 @@
   max-width: 50%;
   padding-right: 15px;
 }
+.video {
+  height: 70%;
+}
 
 .info {
   left: 50%;

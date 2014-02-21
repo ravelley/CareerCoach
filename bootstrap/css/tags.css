@@ -1,0 +1,17 @@
+.alert {
+  float:left;
+  width: 120px;
+  margin:5px;
+}
+
+.panel-heading {
+  padding: 5px 15px;
+}
+
+.panel-title {
+  padding-top: 7px;
+}
+
+.futurama .btn.showmodal {
+  margin-bottom: 0px;
+}

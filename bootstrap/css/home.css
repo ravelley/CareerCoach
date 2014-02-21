@@ -53,4 +53,5 @@
 
 .carousel-panel {
   height: 250px;
+  overflow-y: auto;
 }

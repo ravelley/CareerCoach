@@ -10,3 +10,7 @@ a:hover {
 	color: #000;
 	text-decoration: none;
 }
+
+.panel-title {
+  padding-top: 7px;
+}

@@ -1,3 +1,8 @@
+/*** PRIMARY ***/
+#body-container {
+  padding:0px 20px;
+}
+
 .alert {
   float:left;
   margin:5px;
